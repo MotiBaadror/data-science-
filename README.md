@@ -5,10 +5,7 @@
 
 
 clone the repo 
-#run  clust.py 
-
-to run on local terminal 
-     ' python clust.py '
+#run  clust.ipynb
   
 to run on jupyter notebook
         shift+ enter 
